@@ -513,6 +513,7 @@ body{
         grid-template-columns: repeat(2,1fr);
         gap: 1rem .5rem;
     }
+    
 }
 
 /* Classes modified for large screen size */
