@@ -107,10 +107,10 @@ body.scale-cv{
     max-width: 595px;
 }
 .scale-cv .section{
-    padding: 1.5rem 0 .80rem;
+    padding: 0.5rem 0 .50rem;
 }
 .scale-cv .section-title{
-    margin-bottom: .75rem;
+    margin-bottom: 0.5rem;
 }
 .scale-cv .resume_left,
 .scale-cv .resume_right{
